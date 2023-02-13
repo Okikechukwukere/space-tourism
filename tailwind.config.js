@@ -4,9 +4,9 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        "hero-tab": "url('/src/assets/home/background-home-tablet.jpg')",
-        "hero-desk": "url('/src/assets/home/background-home-desktop.jpg')",
-        "hero-mob": "url('/src/assets/home/background-home-mobile.jpg')",
+        "hero-tab": "url('./src/assets/home/background-home-tablet.jpg')",
+        "hero-desk": "url('./src/assets/home/background-home-desktop.jpg')",
+        "hero-mob": "url('./src/assets/home/background-home-mobile.jpg')",
         "dest-mob":
           "url('/src/assets/destination/background-destination-mobile.jpg')",
         "dest-tab":
