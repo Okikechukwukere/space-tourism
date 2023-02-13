@@ -1299,6 +1299,10 @@ video {
     margin-right: 7rem;
   }
 
+  .lg\:pb-24 {
+    padding-bottom: 6rem/* 96px */;
+}
+
   .lg\:block {
     display: block;
   }
