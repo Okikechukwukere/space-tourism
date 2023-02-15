@@ -1188,9 +1188,9 @@ video {
 }
 
 @media (min-width: 1024px) {
-  .lg\:absolute {
+  /* .lg\:absolute {
     position: absolute;
-  }
+  } */
 
   .lg\:relative {
     position: relative;
